@@ -33,3 +33,8 @@ $ pnpm run dev
 $ pnpm run build
 $ pnpm run start
 ```
+## Contact Person
+```bash
++62 0812-9346-0848
+Apang
+```
